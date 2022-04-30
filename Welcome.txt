@@ -1,2 +1,0 @@
-Welcome to Github Demo
-You will learn how to push file from local git to GitHub
